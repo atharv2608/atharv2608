@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **atharvofficial7@gmail.com**
 
-- 📄 Know about my experiences [[https://atharv-lingayat-portfolio.web.app/Atharv%20Lingayat%20CV.pdf](https://atharv-lingayat-portfolio.web.app/Atharv%20Lingayat%20CV.pdf)](https://atharv-lingayat-portfolio.web.app/Atharv%20lingayat%20CV.pdf)
+- 📄 Know about my experiences https://atharv-lingayat-portfolio.web.app/Atharv%20lingayat%20CV.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
