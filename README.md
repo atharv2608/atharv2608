@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Atharv Lingayat</h1>
-<h3 align="center">A Passionate Full Stack</h3>
+<h3 align="center">A Passionate Mern Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv2608&label=Profile%20views&color=0e75b6&style=flat" alt="atharv2608" /> </p>
 
-- 🔭 I’m currently working on [O2 The Fest](https://github.com/atharv2608/O2-The-Fest)
+- 🌱 I am dedicated to mastering .**scalable web application development**
 
-- 🌱 I’m currently learning **React, Node, Mongo**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rT_rUVXvnUrhmwDKKj9kBZqu_wdFdfik/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [atharv-lingayat-portfolio.web.app](atharv-lingayat-portfolio.web.app)
+- 👨‍💻 All of my projects are available at [Projects](https://drive.google.com/file/d/1rT_rUVXvnUrhmwDKKj9kBZqu_wdFdfik/view?usp=sharing)
 
 - 📫 How to reach me **atharvofficial7@gmail.com**
 
-- 📄 Know about my experiences https://atharv-lingayat-portfolio.web.app/Atharv%20lingayat%20CV.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
